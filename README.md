@@ -4,25 +4,25 @@ This is a party game that we are currently developing using Unreal 5. The core i
 
 ## Meet the Team
 ### Producer
-Benjamin Crosby  
+*Benjamin Crosby*  
 ### Designer
-Hans Gunther  
+*Hans Gunther  
 Fushan Wang  
-Ziyang Wang  
+Ziyang Wang*  
 ### Engineer
-Mingyuan Chen  
+*Mingyuan Chen  
 Haonan(Amos) Dong  
 Wei Zeng  
-Kirti Dhwaj Singh  
+Kirti Dhwaj Singh*  
 ### Art
-Jiayi Chen  
+*Jiayi Chen  
 Wenjing Yue  
-Yifei Li  
+Yifei Li*  
 ### Tech Art
-Na Adiya  
+*Na Adiya  
 Jianchen Zhu  
 Zihe Xue  
-Xiaohu Chen  
+Xiaohu Chen*  
 
 ## My responsibilities
 1. Use C++ to create the gameplay logic of the game;  
