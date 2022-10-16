@@ -2,6 +2,9 @@
 This is a party game that we are currently developing using Unreal 5. The core idea is that different weapons can be combined into new weapons.  
 *Game Engine: Unreal 5.0.3*
 
+## Current video link
+https://drive.google.com/file/d/1UKUJaFLYDXW49teo5rbZE6CMgURT2iC6/view?usp=sharing
+
 ## Meet the Team
 ### Producer
 *Benjamin Crosby*  
@@ -44,6 +47,3 @@ Xiaohu Chen*
 4. Confirm the game flow design of the first stage (how to start, process, and how to end (win or lose));  
 5. Introduce new weapons;  
 6. New VFX and scene design.  
-
-## Current video link
-https://drive.google.com/file/d/1UKUJaFLYDXW49teo5rbZE6CMgURT2iC6/view?usp=sharing
